@@ -1,0 +1,6 @@
+@pushapi_HostAddress = http://localhost:5251
+
+GET {{pushapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
